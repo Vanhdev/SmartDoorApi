@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "apis1": {
+      "apiEndpoint": "https://smartdoorapi.azure-api.net/",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/SmartDoorapi/apis/SmartDoor",
+      "type": "apis.azure"
+    }
+  }
+}
